@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.col-md-4{
+    padding: 10px;
+}
+.col-md-4 img{
+    width: 100%;
+}
